@@ -29,7 +29,11 @@
 
     printf("Quantos pontos turisticos?\n");
     scanf("%d", &Numerodepontosturisticos);
-
+    
+    printf("Nome do Estado %s - Qual sua cidade? %s \n");
+    printf("Populão %d - Area em km²? %f \n");
+    printf ("Pontos turisticos quantidade? %d - Pib? %d \n");
+    
    return 0;
    
 
